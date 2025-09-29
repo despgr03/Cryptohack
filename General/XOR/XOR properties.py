@@ -24,4 +24,3 @@ flag=xor(flag,key3)
 flag=long_to_bytes(flag) 
 print(flag)
 
-#solution:crypto{x0r_i5_ass0c1at1v3}
