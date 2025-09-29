@@ -7,4 +7,3 @@ t3=bytes.fromhex(t2)
 t4=base64.b64encode(t3)
 print(t4)
 
-#solution: crypto/Base+64+Encoding+is+Web+Safe/
