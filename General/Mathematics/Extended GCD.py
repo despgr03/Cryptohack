@@ -39,5 +39,4 @@ gcd(26513,32321)
 
 
 #for the solution we followed the Extended Euclidean algorithm that is shown in wikipedia.
-#solution: -8404
 
