@@ -21,4 +21,3 @@ def gcd(a,b):
  
 gcd(66528,52920) 
 
-#solution: 1512
