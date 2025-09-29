@@ -9,4 +9,3 @@ for i in t:
     t2+=chr(xor(ord(i),13))
 print(t2)
 
-#solution:aloha
