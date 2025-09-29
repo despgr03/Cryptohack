@@ -13,4 +13,3 @@ for i in range(0,256):
         print(t1) 
         break 
 
-#solution:crypto{0x10_15_my_f4v0ur173_by7e}
