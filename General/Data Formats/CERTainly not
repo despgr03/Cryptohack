@@ -1,0 +1,3 @@
+#obtained the modulus using the >openssl x509 -noout -modulus -in cert.der command.
+#it is enconded as a hex string which we convereted it into bytes using the bytes.fromhex() method
+#then we converted bytes into long using the bytes_to_long() method
