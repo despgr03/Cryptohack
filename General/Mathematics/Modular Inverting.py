@@ -10,4 +10,3 @@ def modar1(a,b):
  
 modar1(3,13) 
 
-#solution: 9
