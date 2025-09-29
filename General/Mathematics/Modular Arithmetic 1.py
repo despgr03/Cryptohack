@@ -11,4 +11,4 @@ def modar1(a,b):
 modar1(11,6) 
 modar1(8146798528947,17) 
 
-#solution: 4
+#the solution is the minimum of these two numbers
