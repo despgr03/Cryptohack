@@ -26,5 +26,4 @@ def modar2(a,b):
  
 modar2(273246787654,65537)
 
-#solution: 1
 
